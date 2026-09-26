@@ -1,5 +1,7 @@
 # Wardogs-calc
 <img width="460" height="215" alt="image" src="https://github.com/user-attachments/assets/1a3d4274-e1cb-4832-ba84-18a8282e40d4" />
+
+
 Wardogs - mortar &amp; artillery Calculator 
 🎯 An unofficial mortar and artillery fire calculator for the tactical shooter WARDOGS. Range, azimuth, and elevation angle (in mils)—just two clicks on a 16×16 km map.
 🗺️ Interactive map — tile-based zooming and panning
